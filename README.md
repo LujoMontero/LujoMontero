@@ -7,7 +7,7 @@
 
 - ⭐ Github Star ⭐ 
 - 📲 Programador
-- ✏️ Estudiando Java.
+- ✏️ Estudiando Java - Git - MySQL 
 - 📗 Ing. En Informática. 
 - 🧑‍🏫 Me considero una persona responsable, amable y dispuesta a trabajar en equipo. Para mí, la experiencia de colaborar en equipo es muy gratificante, ya que se forma un ambiente de confianza. Respeto la jerarquía en el ámbito laboral y soy didáctico tanto en aprender como en enseñar. Estoy comprometido a seguir aprendiendo y creciendo en el área de la programación, buscando siempre mejorar tanto a nivel profesional como personal.
 <br>
