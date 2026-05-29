@@ -81,7 +81,7 @@ public class LuisMontero {
 - ✅ Tests unitarios con JUnit + Mockito
 - ✅ Pipeline básico con GitHub Actions
 
-[📂 Ver repositorio →](https://github.com/LujoMontero](https://github.com/LujoMontero/inventario-api))
+[📂 Ver repositorio →](https://github.com/LujoMontero/inventario-api)
 
 ---
 
