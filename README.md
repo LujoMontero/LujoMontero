@@ -2,7 +2,7 @@
 
 **Desarrollador Backend** enfocado en Java y Spring Boot, con experiencia construyendo APIs REST, gestionando bases de datos relacionales y desplegando con Docker. Recientemente incorporé integración con APIs de LLMs para el desarrollo de chatbots y agentes IA.
 
-📍 Santiago, Chile &nbsp;|&nbsp; 📧 luisjosemon@gmail.com &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/luis-montero-if/)
+📍 Valparaíso, Chile &nbsp;|&nbsp; 📧 luisjosemon@gmail.com &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/luis-montero-if/)
 
 ---
 
